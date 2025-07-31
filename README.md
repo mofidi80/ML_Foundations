@@ -15,7 +15,7 @@ https://nbviewer.org/github/mofidi80/Housing_Linreg_hyperpara_opt/blob/main/bost
 Simple python script for creating a sql dataset to store student data along with a webcam picture of said student with corresponding name and id.
 
 In the second year of my undergraduate degree one of my professors wanted to get to know the students of the class and asked us to take a selfie and send it to her; I thought it would be difficult to keep the data from all her classes organized so I wrote this script. She seemed to really like it though I don't know if she ended up using it later.
-*    For use refer to the files "dataset_creator.py", "face detection database.db", "haarcascade_frontalface_default.xml"    *
+*For use refer to the files "dataset_creator.py", "face detection database.db", "haarcascade_frontalface_default.xml"*
 
 
 ## 3. Linear ML Models Sensitivity to Outliers
