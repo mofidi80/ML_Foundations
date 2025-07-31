@@ -1,4 +1,4 @@
-![alt text](https://github.com/mofidi80/ML_Foundations/blob/MachineLearningFoundations.png)
+![alt text](https://github.com/mofidi80/ML_Foundations/blob/02c0d93b1f6925dff869dd16836fcced8f47fe3e/blob/MachineLearningFoundations.png)
 
 
 ## 1. Housing Dataset Linear Regression Hyperparameter Optimization
