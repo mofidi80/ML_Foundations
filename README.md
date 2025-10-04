@@ -4,10 +4,13 @@
 ## 1. Housing Dataset Linear Regression Hyperparameter Optimization
 In this project we attempt to optimize the hyperparameters of lasso and ridge models on Boston housing dataset.
 
-### Outcomes
+### Goals
 1. Find optimal hyperparameter for Lasso linear regression from among the given options.
 2. Find optimal hyperparameter for Ridge linear regression from among the given options.
 3. Compare the two models to find the best model for this dataset.
+
+### Outcome
+* We found out that in this dataset using lasso regularization is slightly better for accuracy of predictions.
 
 Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/Housing_Linreg_hyperpara_opt/blob/main/boston%20housing%20linreg%20hyperparameter%20opt.ipynb
