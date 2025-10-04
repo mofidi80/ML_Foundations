@@ -26,9 +26,12 @@ In the second year of my undergraduate degree one of my professors wanted to get
 ## 3. Linear ML Models Sensitivity to Outliers
 In this project, we will test LinearRegression, Lasso, and Ridge linear regression models to see how sensitive they are to outliers using mean squared error and mean absolute error.
 
-### Outcomes
+### Goals
 1. Which model is more sensitive to outliers.
 2. Which testing metric is more affected by outliers.
+
+### Outcome
+We found out that MSE is more affected by outliers and Ridge regularization is more sensitive to outliers. So if we want to pay less attention to outliers we should use MAE and Lasso regularization.
 
 Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/LinearML_Sensitivity_Outliers/blob/main/linear%20ml%20sensitivity%20outliers.ipynb
