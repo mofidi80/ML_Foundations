@@ -1,4 +1,4 @@
-![alt text](https://github.com/mofidi80/ML_Foundations/blob/02c0d93b1f6925dff869dd16836fcced8f47fe3e/blob/MachineLearningFoundations.png)
+![alt text](https://github.com/mofidi80/ML_Foundations/blob/343ff70e8550f64024ad23f4aea22ae641a0cedb/blob/nano-banana-2025-10-05T17-30-04.png)
 
 
 ## 1. Housing Dataset Linear Regression Hyperparameter Optimization
@@ -37,7 +37,13 @@ Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/LinearML_Sensitivity_Outliers/blob/main/linear%20ml%20sensitivity%20outliers.ipynb
 
 ## 4. Spectal Segmentation on Image
-In this project, we use a spectral segmentation model to seperate a bird from the background.
+In this project, we use a spectral segmentation model to seperate the foreground from the background.
+
+### Goal
+See how well we can seperate the bird in the image from the background
+
+### Outcome
+![Alt text](https://github.com/mofidi80/ML_Foundations/blob/343ff70e8550f64024ad23f4aea22ae641a0cedb/blob/Untitled.png)
 
 ## Built With (for all projects)
 * Python
