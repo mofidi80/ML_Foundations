@@ -1,4 +1,4 @@
-![alt text](https://github.com/mofidi80/ML_Foundations/blob/343ff70e8550f64024ad23f4aea22ae641a0cedb/blob/nano-banana-2025-10-05T17-30-04.png)
+![alt text](https://github.com/mofidi80/ML_Foundations/blob/2b4e5275576ed1f32f8a3fabe54b9c9d1fc80638/blob/nano-banana-2025-10-05T17-36-21.png)
 
 
 ## 1. Housing Dataset Linear Regression Hyperparameter Optimization
@@ -79,7 +79,10 @@ See how well we can seperate the bird in the image from the background
   ```console
   pip install pandas
   ```
-
+3. Download the following required files:
+   + For project #1: housing.csv
+   + For project #2: haarcascade_frontalface_default.xml
+   + For project #4: bird.png
 
 ## Contributing
 
