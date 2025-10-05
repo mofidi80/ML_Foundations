@@ -36,6 +36,9 @@ We found out that MSE is more affected by outliers and Ridge regularization is m
 Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/LinearML_Sensitivity_Outliers/blob/main/linear%20ml%20sensitivity%20outliers.ipynb
 
+## 4. Spectal Segmentation on Image
+In this project, we use a spectral segmentation model to seperate a bird from the background.
+
 ## Built With (for all projects)
 * Python
    + Numpy
