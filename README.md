@@ -101,7 +101,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 Mohammad Mofidi
 * Email: mohammad.mofidi.k@gmail.com
-* Linkedin: https://www.linkedin.com/in/mohammad-mofidi-khajeh-2715832b8/
+* Linkedin: https://www.linkedin.com/in/mohammad-mofidikhajeh
 * Instagram: https://www.instagram.com/_mohammadmofidi/
 
 
